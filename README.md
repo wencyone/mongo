@@ -1,9 +1,8 @@
 
 
-<h1>Rimuru Discord Botu v14 </h1>
-<p>.gg/mondstadt</p>
+<h1>Wency Discord Botu v14 </h1>
+<p>.gg/wency</p>
 
 ##  Proje Hakkında
 
-Aldığınız hataları bana discord hesabımdan iletebilirsiniz. 
-Discord id: oktayyavuzjp
+Aldığınız hataları bana discord hesabımdan iletebilirsiniz
